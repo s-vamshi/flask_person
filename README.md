@@ -7,4 +7,5 @@
 5. pip install flask flask_sqlalchemy
 6. flask shell
 7. db.create_all()
-8. python app.py
+8. exit()
+9. python app.py
