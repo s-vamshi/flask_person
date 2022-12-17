@@ -5,4 +5,6 @@
 3. follow steps given here https://www.geeksforgeeks.org/how-to-install-face-recognition-in-python-on-windows/
 4. cd ..
 5. pip install flask flask_sqlalchemy
-6. python app.py
+6. flask shell
+7. db.create_all()
+8. python app.py
